@@ -1,0 +1,14 @@
+{
+    "country_code": "AD",
+    "isSEPAcountry": true,
+    "ISO_3166_1": { "name": "Andorra" , "name_fr": "Andorre (l')" , "alpha2": "AD" , "alpha3": "AND" , "numeric": 20 },
+    "list": [
+{"id":10000,"swift_code":"BACAADADXXX","bank_code":1,"bank":"andbanc Grup Agr","branch_code":"0000","branch":"Serveis Centrals","city":"Escaldes-Engordany","address":"C\/ Manuel Cerqueda i Escaler, 6","phone":"87 33 33","fax":"86 39 05","support_codes":1},
+{"id":30000,"swift_code":"CRDAADADXXX","bank_code":3,"bank":"CREDIT ANDORRA S.A.","branch_code":"0000","branch":"Serveis Centrals","city":"Escaldes-Engordany","address":"Av. Fiter i Rossell, 22","phone":"88 89 50","fax":"88 89 51","support_codes":1},
+{"id":40000,"swift_code":"BINAADADXXX","bank_code":4,"bank":"MoraBanc","branch_code":"0000","branch":"Private Banking Escaldes","city":"Escaldes-Engordany","address":"Pla","phone":"88 45 51","fax":"88 45 59","support_codes":1},
+{"id":60000,"swift_code":"BSANADADXXX","bank_code":6,"bank":"Banca Privada d'Andorra","branch_code":"0000","branch":"Andorra","city":"Andorra la Vella","address":"Pla","phone":"80 84 00","fax":"86 77 29","support_codes":1},
+{"id":70000,"swift_code":"BINAADADXXX","bank_code":7,"bank":"MoraBanc","branch_code":"0000","branch":"Meritxell 36","city":"Andorra la Vella","address":"Av. Meritxell, 32","phone":"88 47 05","fax":"88 47 19","support_codes":1},
+{"id":80000,"swift_code":"BSANADADXXX","bank_code":8,"bank":"BancSabadell d'Andorra","branch_code":"0000","branch":"Meritxell","city":"Andorra la Vella","address":"Av. Meritxell, 85","phone":"80 36 00","fax":"80 36 01","support_codes":1},
+{"id":250000,"swift_code":"VALBADADXXX","bank_code":25,"bank":"Vall Banc","branch_code":"0000","support_codes":1}
+    ]
+}
