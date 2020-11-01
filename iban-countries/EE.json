@@ -1,10 +1,9 @@
 {
-    "country": "Estonia",
     "country_code": "EE",
     "isSEPAcountry": true,
     "ISO_3166_1": { "name": "Estonia" , "name_fr": "Estonie (l')" , "alpha2": "EE" , "alpha3": "EST" , "numeric": 233 },
     "list": [
-{"id":  0, "swift_code": "TABUEE22XXX", "bank_code": "00", "branch_code": null, "branch": null, "bank": "TALLINNA ARIPANGA AS", "address": "VANA-VIRU 7", "zip": "15097", "city": "TALLINN", "support_codes": 1},
+{"id":  0, "swift_code": "TABUEE22XXX", "bank_code":  0, "branch_code": null, "branch": null, "bank": "TALLINNA ARIPANGA AS", "address": "VANA-VIRU 7", "zip": "15097", "city": "TALLINN", "support_codes": 1},
 {"id":  2, "swift_code": "UHISEE21XXX", "bank_code":  2, "branch_code": null, "branch": null, "bank": "UHISARVELDUSED AS", "address": "", "city": "", "support_codes": 1},
 {"id": 10, "swift_code": "EEUHEE2XXXX", "bank_code": 10, "branch_code": null, "branch": null, "bank": "AS SEB PANK", "address": "TORNIMAE 2 FLOOR 10", "zip": "15010", "city": "TALLINN", "support_codes": 1},
 {"id": 11, "swift_code": "HABAEE2XXXX", "bank_code": 11, "branch_code": null, "branch": null, "bank": "Swedbank", "address": "", "city": "", "support_codes": 1},
