@@ -1,0 +1,32 @@
+{
+    "country_code": "EE",
+    "isSEPAcountry": true,
+    "ISO_3166_1": { "name": "Estonia" , "name_fr": "Estonie (l')" , "alpha2": "EE" , "alpha3": "EST" , "numeric": 233 },
+    "list": [
+{"id":  0, "swift_code": "TABUEE22XXX", "bank_code":  0, "branch_code": null, "branch": null, "bank": "TALLINNA ARIPANGA AS", "address": "VANA-VIRU 7", "zip": "15097", "city": "TALLINN", "support_codes": 1},
+{"id":  2, "swift_code": "UHISEE21XXX", "bank_code":  2, "branch_code": null, "branch": null, "bank": "UHISARVELDUSED AS", "address": "", "city": "", "support_codes": 1},
+{"id": 10, "swift_code": "EEUHEE2XXXX", "bank_code": 10, "branch_code": null, "branch": null, "bank": "AS SEB PANK", "address": "TORNIMAE 2 FLOOR 10", "zip": "15010", "city": "TALLINN", "support_codes": 1},
+{"id": 11, "swift_code": "HABAEE2XXXX", "bank_code": 11, "branch_code": null, "branch": null, "bank": "Swedbank", "address": "", "city": "", "support_codes": 1},
+{"id": 12, "swift_code": "PARXEE22XXX", "bank_code": 12, "branch_code": null, "branch": null, "bank": "AS Citadele banka Eesti filiaal", "address": "ROOSIKRANTSI 2", "zip": "10119", "city": "TALLINN", "support_codes": 1},
+{"id": 16, "swift_code": "EPBEEE2XXXX", "bank_code": 16, "branch_code": null, "branch": null, "bank": "Eesti Pank (Bank of Estonia)", "address": "ESTONIA PST. 13", "zip": "15095", "city": "TALLINN", "support_codes": 1},
+{"id": 161,"swift_code": "EPBEEE2XCCB", "bank_code": 16, "branch_code": null, "branch": null, "bank": "Eesti Pank (Bank of Estonia)", "address": "ESTONIA PST. 13", "zip": "15095", "city": "TALLINN", "support_codes": 1},
+{"id": 162,"swift_code": "EPBEEE2XCSD", "bank_code": 16, "branch_code": null, "branch": "(MIRROR TECHNICAL ACCOUNT)", "bank": "Eesti Pank (Bank of Estonia)", "address": "ESTONIA PST. 13", "zip": "15095", "city": "TALLINN", "support_codes": 1},
+{"id": 163,"swift_code": "EPBEEE2XERT", "bank_code": 16, "branch_code": null, "branch": "(CLEARING DEPARTMENT)", "bank": "Eesti Pank (Bank of Estonia)", "address": "ESTONIA PST. 13", "zip": "15095", "city": "TALLINN", "support_codes": 1},
+{"id": 164,"swift_code": "EPBEEE2XTGT", "bank_code": 16, "branch_code": null, "branch": "(TARGET 2)", "bank": "Eesti Pank (Bank of Estonia)", "address": "ESTONIA PST. 13", "zip": "15095", "city": "TALLINN", "support_codes": 1},
+{"id": 17, "swift_code": "NDEAEE2XXXX", "bank_code": 17, "branch_code": null, "branch": null, "bank": "NORDEA BANK FINLAND PLC ESTONIA BRANCH", "address": "", "city": "TALLINN", "support_codes": 1},
+{"id": 22, "swift_code": "HABAEE2XXXX", "bank_code": 22, "branch_code": null, "branch": null, "bank": "SWEDBANK AS", "address": "LIIVALAIA 8", "zip": "15040", "city": "TALLINN", "support_codes": 1},
+{"id": 221,"swift_code": "HABAEE2XHAM", "bank_code": 22, "branch_code": null, "branch": "(HANSA ASSET MANAGMENT)", "bank": "SWEDBANK AS", "address": "LIIVALAIA 8", "zip": "15040", "city": "TALLINN", "support_codes": 1},
+{"id": 33, "swift_code": "FOREEE2XXXX", "bank_code": 33, "branch_code": null, "branch": null, "bank": "DANSKE BANK A/S ESTONIA BRANCH", "address": "NARVA MNT. 11", "zip": "15015", "city": "TALLINN"},
+{"id": 42, "swift_code": "EKRDEE22XXX", "bank_code": 42, "branch_code": null, "branch": null, "bank": "Coop Pank AS", "address": "NARVA ROAD 4", "zip": "0001", "city": "TALLINN", "support_codes": 1},
+{"id": 45, "swift_code": "GFCBEE22XXX", "bank_code": 45, "branch_code": null, "branch": null, "bank": "GFC GOOD FINANCE COMPANY", "address": "", "city": ""},
+{"id": 51, "swift_code": "OKOYEE2XXXX", "bank_code": 51, "branch_code": null, "branch": null, "bank": "OP Corporate Bank plc Eesti filiaal", "address": "PARNU MNT. 141", "zip": "11314", "city": "TALLINN", "support_codes": 1},
+{"id": 55, "swift_code": "SBMBEE22XXX", "bank_code": 55, "branch_code": null, "branch": null, "bank": "VERSOBANK AS", "address": "PARNU MNT 12", "zip": "10148", "city": "TALLINN"},
+{"id": 62, "swift_code": "MAEHEE21XXX", "bank_code": 62, "branch_code": null, "branch": null, "bank": "MAAELU EDENDAMISE HOIU-LAENUUHISTU", "address": "", "city": "", "support_codes": 1},
+{"id": 75, "swift_code": "BIGKEE2BXXX", "bank_code": 75, "branch_code": null, "branch": null, "bank": "BIGBANK AS", "address": "TARTU MNT 18", "zip": "10115", "city": "TALLINN", "support_codes": 1},
+{"id": 77, "swift_code": "LHVBEE22XXX", "bank_code": 77, "branch_code": null, "branch": null, "bank": "AS LHV PANK", "address": "TARTU MNT. 2", "city": "TALLINN", "support_codes": 1},
+{"id": 83, "swift_code": "HANDEE22XXX", "bank_code": 83, "branch_code": null, "branch": null, "bank": "SVENSKA HANDELSBANKEN AB ESTONIAN BRANCH", "address": "HARJU 6", "zip": "10130", "city": "TALLINN"},
+{"id": 88, "swift_code": "UNCREE22XXX", "bank_code": 88, "branch_code": null, "branch": null, "bank": "AS UNICREDIT BANK EESTI FILIAAL", "address": "LIIVALAIA 13/15", "zip": "10118", "city": "TALLINN"},
+{"id": 96, "swift_code": "RIKOEE22XXX", "bank_code": 96, "branch_code": null, "branch": null, "bank": "Luminor Bank AS (DNB) ", "address": "TARTU MNT. 10", "zip": "10145", "city": "TALLINN", "support_codes": 1},
+{"id": 99, "swift_code": "AKELEE21XXX", "bank_code": 99, "branch_code": null, "branch": null, "bank": "AS Pocopay", "address": "PARNU MNT 102C", "city": "TALLINN", "support_codes": 1}
+    ]
+}

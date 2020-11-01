@@ -3,7 +3,7 @@
     "isSEPAcountry": true,
     "ISO_3166_1": { "name": "Belgium" , "name_fr": "Belgique (la)" , "alpha2": "BE" , "alpha3": "BEL" , "numeric": 56  },
     "list": [
-{"id": 0, "swift_code": "BPOTBEB1XXX", "bank_code": "000", "branch_code": null, "branch": null, "bank": "bpost bank", "address": "Markiesstraat, 1 bus 2 1000, BRABANT", "city": "BRUSSELS", "support_codes": 7},
+{"id": 0, "swift_code": "BPOTBEB1XXX", "bank_code": 0, "branch_code": null, "branch": null, "bank": "bpost bank", "address": "Markiesstraat, 1 bus 2 1000, BRABANT", "city": "BRUSSELS", "support_codes": 7},
 {"id": 1, "swift_code": "GEBABEBBXXX", "bank_code": 1, "branch_code": null, "branch": null, "bank": "BNP Paribas Fortis", "address": "Rue Montagne du Parc 3 1000", "city": "BRUXELLES", "support_codes": 15},
 {"id": 2, "swift_code": "GEBABEBBXXX", "bank_code": 2, "branch_code": null, "branch": null, "bank": "BNP Paribas Fortis", "address": "Rue Montagne du Parc 3 1000", "city": "BRUXELLES", "support_codes": 15},
 {"id": 3, "swift_code": "GEBABEBBXXX", "bank_code": 3, "branch_code": null, "branch": null, "bank": "BNP Paribas Fortis", "address": "Rue Montagne du Parc 3 1000", "city": "BRUXELLES", "support_codes": 15},
