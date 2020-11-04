@@ -1,0 +1,16 @@
+{
+    "country_code": "XK",
+    "list": [
+{"id":1000,"swift_code":"CBRKXKPRXXX","bank_code":10,"bank":"CENTRAL BANK OF THE REPUBLIC OF KOSOVO","branch_code":"00","zip":"10000","city":"PRISTINA","address":"33 GARIBALDI STREET"},
+{"id":1100,"swift_code":"MBKOXKPRXXX","bank_code":11,"bank":"PROCREDIT BANK","branch_code":"00","zip":"10000","city":"PRISTINA","address":"HEAD QUARTER MOTHER THERESA 16"},
+{"id":1200,"swift_code":"NLPRXKPRXXX","bank_code":12,"bank":"NLB PRISHTINA","branch_code":"00","zip":"10000","city":"PRISTINA","address":"KOSTA NOVAKOVIQ PN"},
+{"id":1300,"swift_code":"BPBXXKPRXXX","bank_code":13,"bank":"BANKA PER BIZNES SH.A.","branch_code":"00","zip":"10000","city":"PRISTINA","address":"STR UCK, 41"},
+{"id":1400,"swift_code":"EKOMXKPRXXX","bank_code":14,"bank":"BANKA EKONOMIKE SH.A","branch_code":"00","zip":"10000","city":"PRISTINA","address":"SWISS DIAMOND BUILDING SHESHI NENE TEREZE P.N."},
+{"id":1500,"swift_code":"RBKOXKPRXXX","bank_code":15,"bank":"RAIFFEISEN BANK","branch_code":"00","zip":"10000","city":"PRISTINA","address":"UCK NO.51"},
+{"id":1700,"swift_code":"NLPRXKPRXXX","bank_code":17,"bank":"NLB PRISHTINA","branch_code":"00","zip":"10000","city":"PRISTINA","address":"REXHEP LUCI NO.5"},
+{"id":1900,"swift_code":"NCBAXKPRXXX","bank_code":19,"bank":"BANKA KOMBETARE TREGTARE SH.A","branch_code":"00","zip":"10000","city":"PRISTINA","address":"QYTEZA PEJTON"},
+{"id":2000,"swift_code":"TEBKXKPRXXX","bank_code":20,"bank":"TEB - BNP PARIBAS","branch_code":"00","zip":"10000","city":"PRISTINA","address":"STR. AGIM RAMADANI NO. 15"},
+{"id":2100,"swift_code":"ISBKXKPRXXX","bank_code":21,"bank":"TURKIYE IS BANKASI A.S. ALL KOSOVO BRANCHES","branch_code":"00","zip":"10000","city":"PRISTINA","address":"43 RRUGA UCK"},
+{"id":2200,"swift_code":"TCZBXKPRXXX","bank_code":22,"bank":"T.C. ZIRAAT BANKASI A.S","branch_code":"00","zip":"10000","city":"PRISTINA"}
+    ]
+}
