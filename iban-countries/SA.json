@@ -1,0 +1,33 @@
+{
+    "country_code": "SA",
+    "ISO_3166_1": { "name": "Saudi Arabia" , "name_fr": "Arabie saoudite (l')" , "alpha2": "SA" , "alpha3": "SAU" , "numeric": 682 },
+    "list": [
+{"id":1,"swift_code":"SAMASARIXXX","bank_code":1,"bank":"SAUDI ARABIAN MONETARY AGENCY","city":"RIYADH"},
+{"id":5,"swift_code":"INMASARIXXX","bank_code":5,"bank":"AL INMA BANK","zip":"11586","city":"RIYADH","address":"AL ANOUD TOUR KING FAHD ROAD"},
+{"id":10,"swift_code":"NCBKSAJEXXX","bank_code":10,"bank":"NATIONAL COMMERCIAL BANK, THE","zip":"21481","city":"JEDDAH","address":"NCB HEAD OFFICE BUILDING KING ABDUL AZIZ STREET"},
+{"id":15,"swift_code":"ALBISARIXXX","bank_code":15,"bank":"BANK AL BILAD","zip":"11411","city":"RIYADH","address":"TRADE FINANCE CENTER SULLAH ALDEAN"},
+{"id":20,"swift_code":"RIBLSARIXXX","bank_code":20,"bank":"RIYAD BANK","zip":"11416","city":"RIYADH","address":"Al Shuhada District - Eastern Ring Road - Granada Oasis - A1 Tower"},
+{"id":30,"swift_code":"ARNBSARIXXX","bank_code":30,"bank":"ARAB NATIONAL BANK","zip":"11564","city":"RIYADH","address":"KING FAISAL STREET NORTH MURABA"},
+{"id":40,"swift_code":"SAMBSARIXXX","bank_code":40,"bank":"SAMBA FINANCIAL GROUP","zip":"11421","city":"RIYADH","address":"OLD AIRPORT ROAD"},
+{"id":45,"swift_code":"SABBSARIXXX","bank_code":45,"bank":"SAUDI BRITISH BANK, THE","zip":"11413","city":"RIYADH","address":"AL-AMIR ABDUL AZIZ IBN MOSSAAD IBN JALAWI STREET"},
+{"id":50,"swift_code":"AAALSARIXXX","bank_code":50,"bank":"ALAWWAL BANK","zip":"11431","city":"RIYADH","address":"HEAD OFFICE BUILDING DHABAB STREET"},
+{"id":55,"swift_code":"BSFRSARIXXX","bank_code":55,"bank":"BANQUE SAUDI FRANSI","zip":"11554","city":"RIYADH","address":"AL-MAATHER GROUND FLOOR"},
+{"id":60,"swift_code":"BJAZSAJEXXX","bank_code":60,"bank":"BANK AL-JAZIRA","zip":"21442","city":"JEDDAH","address":"KHALID BIN WALEED STREET"},
+{"id":65,"swift_code":"SIBCSARIXXX","bank_code":65,"bank":"SAUDI INVESTMENT BANK, THE","zip":"11481","city":"RIYADH","address":"AL-MA'THER ROAD"},
+{"id":71,"swift_code":"NBOBSARIXXX","bank_code":71,"bank":"NATIONAL BANK OF BAHRAIN","city":"RIYADH","address":"AL-AMAAR BLDG 834 KING FAHAD HIGHWAY"},
+{"id":72,"swift_code":"QNBASARIXXX","bank_code":72,"bank":"QATAR NATIONAL BANK"},
+{"id":73,"swift_code":"FABMSARIXXX","bank_code":73,"bank":"FIRST ABU DHABI BANK"},
+{"id":75,"swift_code":"NBOKSAJEXXX","bank_code":75,"bank":"NATIONAL BANK OF KUWAIT","zip":"21444","city":"JEDDAH","address":"RED SEA PLAZA ALANDALUS 15385"},
+{"id":76,"swift_code":"BMUSSARIXXX","bank_code":76,"bank":"BANKMUSCAT","zip":"11514","city":"RIYADH","address":"BURJ ALIDARI BLDG NO.737 KING FAHAD ROAD"},
+{"id":80,"swift_code":"RJHISARIXXX","bank_code":80,"bank":"AL RAJHI BANK","zip":"11495","city":"RIYADH","address":"AKARIA 3 OLAYA MAIN STREET"},
+{"id":81,"swift_code":"DEUTSARIXXX","bank_code":81,"bank":"DEUTSCHE BANK AG, RIYADH BRANCH","city":"RIYADH","address":"FAISALIA TOWER"},
+{"id":82,"swift_code":"NBPASARIXXX","bank_code":82,"bank":"NATIONAL BANK OF PAKISTAN","zip":"11516","city":"RIYADH","address":"AL-GUTHMI BUILDING KING FAHAD ROAD 857"},
+{"id":83,"swift_code":"SBINSAJEXXX","bank_code":83,"bank":"STATE BANK OF INDIA","zip":"21544","city":"JEDDAH","address":"AL-ANDALUF PLAZA SIPPEEN STREET"},
+{"id":84,"swift_code":"TCZBSAJEXXX","bank_code":84,"bank":"T.C. ZIRAAT BANKASI A.S.","zip":"21451","city":"JEDDAH","address":"AL-SHATE'E DIST.\/6, SUHAIL BIN QAYS STR., STR. N. 78, CORNICHE FLOOR 1 N.3012"},
+{"id":85,"swift_code":"BNPASARIXXX","bank_code":85,"bank":"BNP PARIBAS SAUDI ARABIA","city":"RIYADH","address":"AL FAISALIAH TOWER KING FAHD ROAD"},
+{"id":86,"swift_code":"CHASSARIXXX","bank_code":86,"bank":"JPMORGAN CHASE BANK, N.A. RIYADH","city":"RIYADH","address":"AL FAISALIAH TOWER FLOOR 8, AREA C"},
+{"id":87,"swift_code":"ICBKSARIXXX","bank_code":87,"bank":"INDUSTRIAL AND COMMERCIAL BANK OF CHINA"},
+{"id":90,"swift_code":"GULFSARIXXX","bank_code":90,"bank":"GULF INTERNATIONAL BANK B.S.C., RIYADH","zip":"11673","city":"RIYADH","address":"ABRAJ ATTA'AWUNEYA KING FAHAD ROAD"},
+{"id":95,"swift_code":"EBILSARIXXX","bank_code":95,"bank":"EMIRATES NBD PJSC","zip":"11482","city":"RIYADH","address":"AL MAS CENTER KING FAHAD HIGHWAY, JUNCTION OF THALIAA STREET, OLAYA"}
+    ]
+}
