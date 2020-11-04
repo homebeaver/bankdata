@@ -1,0 +1,30 @@
+{
+    "country_code": "HR",
+    "isSEPAcountry": true,
+    "ISO_3166_1": { "name": "Croatia" , "name_fr": "Croatie (la)" , "alpha2": "HR" , "alpha3": "HRV" , "numeric": 191 },
+    "list": [
+{"id":1001005,"swift_code":"NBHRHR2XXXX","bank_code":1001005,"bank":"HRVATSKA NARODNA BANKA","zip":"10000","city":"ZAGREB","address":"TRG HRVATSKIH VELIKANA","support_codes":1},
+{"id":2340009,"swift_code":"PBZGHR2XXXX","bank_code":2340009,"bank":"PRIVREDNA BANKA ZAGREB d.d. Zagreb","zip":"10000","city":"ZAGREB","address":"RADNICKA 50","support_codes":1},
+{"id":2360000,"swift_code":"ZABAHR2XXXX","bank_code":2360000,"bank":"ZAGREBACKA BANKA d.d. Zagreb","zip":"10000","city":"ZAGREB","address":"TRG BANA JOSIPA JELACICA 10","support_codes":1},
+{"id":2380006,"swift_code":"ISKBHR2XXXX","bank_code":2380006,"bank":"ISTARSKA KREDITNA BANKA  UMAG d.d. Umag","zip":"52470","city":"UMAG","address":"ERNESTA MILOSA 1","support_codes":1},
+{"id":2386002,"swift_code":"PDKCHR2XXXX","bank_code":2386002,"bank":"PODRAVSKA BANKA d.d. Koprivnica","zip":"48000","city":"KOPRIVNICA","address":"OPATICKA 3","support_codes":1},
+{"id":2390001,"swift_code":"HPBZHR2XXXX","bank_code":2390001,"bank":"HRVATSKA POSTANSKA BANKA d.d. Zagreb","zip":"10000","city":"ZAGREB","address":"JURISICEVA 4","support_codes":1},
+{"id":2400008,"swift_code":"KALCHR2XXXX","bank_code":2400008,"bank":"KARLOVACKA BANKA d.d. Karlovac","zip":"47000","city":"KARLOVAC","address":"I. GORANA KOVACICA 1","support_codes":1},
+{"id":2402006,"swift_code":"ESBCHR22XXX","bank_code":2402006,"bank":"ERSTE & STEIERMÄRKISCHE BANK d.d. Rijeka","zip":"51000","city":"RIJEKA","address":"JADRANSKI TRG 3A","support_codes":1},
+{"id":2403009,"swift_code":"SMBRHR22XXX","bank_code":2403009,"bank":"SAMOBORSKA BANKA d.d. Samobor","zip":"10430","city":"SAMOBOR","address":"TRG KRALJA TOMISLAVA 8","support_codes":1},
+{"id":2407000,"swift_code":"OTPVHR2XXXX","bank_code":2407000,"bank":"OTP BANKA HRVATSKA d.d. Zadar","zip":"23000","city":"ZADAR","address":"DOMOVINSKOG RATA 3","support_codes":1},
+{"id":2408002,"swift_code":"PAZGHR2XXXX","bank_code":2408002,"bank":"PARTNER BANKA d.d. Zagreb","zip":"10000","city":"ZAGREB","address":"VONCININA 2","support_codes":1},
+{"id":2412009,"swift_code":"SBSLHR2XXXX","bank_code":2412009,"bank":"SLATINSKA BANKA d.d. Slatina","zip":"33520","city":"SLATINA","address":"VLADIMIRA NAZORA 2","support_codes":1},
+{"id":2481000,"swift_code":"KREZHR2XXXX","bank_code":2481000,"bank":"KREDITNA BANKA ZAGREB d.d. Zagreb","zip":"10000","city":"ZAGREB","address":"ULICA GRADA VUKOVARA 74","support_codes":1},
+{"id":2484008,"swift_code":"RZBHHR2XXXX","bank_code":2484008,"bank":"RAIFFEISENBANK AUSTRIA d.d. Zagreb","zip":"10000","city":"ZAGREB","address":"Magazinska cesta 69","support_codes":1},
+{"id":2485003,"swift_code":"CROAHR2XXXX","bank_code":2485003,"bank":"CROATIA BANKA d.d. Zagreb","zip":"10000","city":"ZAGREB","address":"TRG J.F. KENNEDYA 11","support_codes":1},
+{"id":2488001,"swift_code":"BFKKHR22XXX","bank_code":2488001,"bank":"BKS BANK AG","zip":"51000","city":"RIJEKA","address":"MLJEKARSKI TRG 3","support_codes":1},
+{"id":2489004,"swift_code":"VBVZHR22XXX","bank_code":2489004,"bank":"J AND T BANKA D.D.","zip":"42000","city":"VARAZDIN","address":"ALEJA KRALJA ZVONIMIRA 1","support_codes":1},
+{"id":2492008,"swift_code":"IMXXHR22XXX","bank_code":2492008,"bank":"IMEX BANKA d.d. Split","zip":"21000","city":"SPLIT","address":"TOLSTOJEVA 6","support_codes":1},
+{"id":2493003,"swift_code":"HKBOHR2XXXX","bank_code":2493003,"bank":"HRVATSKA BANKA ZA OBNOVU I RAZVITAK Zagreb","zip":"10000","city":"ZAGREB","address":"STROSSMAYEROV TRG 9"},
+{"id":2500009,"swift_code":"HAABHR22XXX","bank_code":2500009,"bank":"ADDIKO BANK D.D. Zagreb","zip":"10000","city":"ZAGREB","address":"SLAVONSKA AVENIJA 6","support_codes":1},
+{"id":2503007,"swift_code":"VBCRHR22XXX","bank_code":2503007,"bank":"SBERBANK d.d. Zagreb","zip":"10000","city":"ZAGREB","address":"VARSAVSKA 9","support_codes":1},
+{"id":4124003,"swift_code":"KENBHR22XXX","bank_code":4124003,"bank":"KENTBANK d.d. Zagreb","zip":"10000","city":"ZAGREB","address":"GUNDULICEVA 1","support_codes":1},
+{"id":4133006,"swift_code":"SKOVHR22XXX","bank_code":4133006,"bank":"BANKA KOVANICA d.d. Varazdin","zip":"42000","city":"VARAZDIN","address":"VETRA PRERHDOVICA 29","support_codes":1} 
+     ]
+}
