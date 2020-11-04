@@ -1,0 +1,10 @@
+{
+    "country_code": "VA",
+    "isSEPAcountry": true,
+    "ISO_3166_1": { "name": "Holy See (the)" , "name_fr": "Saint-Siège (le)" , "alpha2": "VA" , "alpha3": "VAT" , "numeric": 336 },
+    "list": [
+{ "id": 1, "bank": "AMMINISTRAZIONE DEL PATRIMONIO DELLA SEDE APOSTOLICA", "city": "VATICAN CITY", "branch": null, "swift_code": "APDEVAVAXXX" },
+{ "id": 2, "bank": "ISTITUTO PER LE OPERE DI RELIGIONE", "city": "VATICAN CITY", "branch": null, "swift_code": "IOPRVAVXXXX" },
+{ "id": 3, "bank": "POSTE VATICANE", "city": "CITTA DEL VATICANO", "branch": null, "swift_code": "VATIVAV1XXX" }
+    ]
+}
