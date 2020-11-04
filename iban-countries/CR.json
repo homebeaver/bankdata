@@ -1,0 +1,28 @@
+{
+    "country_code": "CR",
+    "ISO_3166_1": { "name": "Costa Rica" , "name_fr": "Costa Rica (le)" , "alpha2": "CR" , "alpha3": "CRI" , "numeric": 188 },
+    "list": [
+{"id":100,"swift_code":"BCCRCRSJXXX","bank_code":100,"bank":"BANCO CENTRAL DE COSTA RICA","zip":"1000","city":"SAN JOSE","address":"AVENIDA CENTRAL Y PRIMERA CALLES 2 Y 4"},
+{"id":102,"swift_code":"BSNJCRSJXXX","bank_code":102,"bank":"BANCO BAC SAN JOSE","city":"SAN JOSE","address":"BANCO DE SAN JOSE AV. 3 Y 5 CALLE 0"},
+{"id":104,"swift_code":"BXBACRSJXXX","bank_code":104,"bank":"BANCO DAVIVIENDA (COSTA RICA), S.A.","zip":"7983-1000","city":"SAN JOSE","address":"TOURNON BARRIO TOURNON, COSTADO SUR UNIVERSIDAD ULACIT"},
+{"id":107,"swift_code":"CCIOCRSJXXX","bank_code":107,"bank":"BCT","zip":"1106","city":"SAN JOSE","address":"BCT CENTRAL STREET AV. O AND 1ST"},
+{"id":114,"swift_code":"BCCECRSJXXX","bank_code":114,"bank":"BANCO LAFISE S.A.","city":"SAN JOSE","address":"OFIPLAZA DEL ESTE BARRIO ESCALANTE, EDIFICIO C 100 OESTE DE LA ROTONDA DE"},
+{"id":116,"swift_code":"PRMKCRSJXXX","bank_code":116,"bank":"Promerica","city":"SAN JOSE","address":"EDIF PROMERICA 500 MTS OESTE DE LA SABANA, CARRETERA A PAVAS"},
+{"id":117,"swift_code":"BACUCRSJXXX","bank_code":117,"bank":"BANCO CITIBANK DE COSTA RICA S.A.","zip":"1000","city":"SAN JOSE","address":"OFICINA LA URUCA 150 METROS NORTE PUENTE JUAN PABLO II, LA URUCA"},
+{"id":120,"swift_code":"BIMPCRSJXXX","bank_code":120,"bank":"BANCO IMPROSA, S.A.","zip":"10882-1000","city":"SAN PEDRO","address":"300 ESTE, 200 SUR, IGLESIA SANTA TERESITA, BARRIO ESCALANTE"},
+{"id":123,"swift_code":"NOSCCRSJXXX","bank_code":123,"bank":"SCOTIABANK DE COSTA RICA","zip":"1000","city":"SAN JOSE","address":"AV. PRIMAVERA, CALLE 0-2"},
+{"id":125,"swift_code":"KTAYCRSJXXX","bank_code":125,"bank":"BANCO CATHAY DE COSTA RICA, S.A.","city":"SAN JOSE","address":"500 MTS. OESTE DE SYLVANIA, PAVAS"},
+{"id":126,"swift_code":"BAGECRSJXXX","bank_code":126,"bank":"BANCO GENERAL (COSTA RICA), S.A.","zip":"13811-1000","city":"SAN JOSE","address":"FORUM 1 POZOS"},
+{"id":127,"swift_code":"BACUCRSJXXX","bank_code":127,"bank":"Banco CMB (Costa Rica) S.A."},
+{"id":151,"swift_code":"BNCRCRSJXXX","bank_code":151,"bank":"BANCO NACIONAL DE COSTA RICA","city":"SAN JOSE","address":"AVENIDA 1 Y 3 CALLE 2 Y 4"},
+{"id":152,"swift_code":"BCRICRSJXXX","bank_code":152,"bank":"BANCO DE COSTA RICA","zip":"10035-1000","city":"SAN JOSE","address":"AV CENTRAL Y AV SEGUNDA ENTRE CALLES 4 Y 6"},
+{"id":153,"swift_code":"BCACCRS1XXX","bank_code":153,"bank":"BANCO CREDITO AGRICOLA DE CARTAGO","city":"CARTAGO","address":"BCAC AV. 2 CALLE 3 Y 5, CARTAGO"},
+{"id":161,"swift_code":"BPDCCRSJXXX","bank_code":161,"bank":"Banco Popular de Desarrollo Comunal","zip":"10000","city":"SAN JOSE","address":"EDIFICIO METROPOLITANO CALLES 1 Y 3, AVENIDA 2"},
+{"id":310,"swift_code":"FCCRCRS1XXX","bank_code":310,"bank":"FINANCIERA G AND T CONTINENTAL"},
+{"id":312,"swift_code":"BDSOCRSJXXX","bank_code":312,"bank":"BANCO DE SOLUCIONES BANSOL DE COSTA RICA S.A. (FORMERLY FINANCIERA ACOBO S.A.)","zip":"10882-1000","city":"SAN PEDRO","address":"BANCO BANSOL FRENTE AL COSTADO NORTE DEL MALL SAN PEDRO 25281800"},
+{"id":745,"swift_code":"CEVCCRS1XXX","bank_code":745,"bank":"CENTRAL DE VALORES"},
+{"id":803,"swift_code":"GMAVCRS1XXX","bank_code":803,"bank":"GRUPO MUTUAL ALAJUELA-LA VIVIENDA DE AHORRO Y PRESTAMO","zip":"533-4050","city":"ALAJUELA","address":"OFICINAS CENTRALES FRENTE A PRICESMART EN ALAJUELA"},
+{"id":814,"swift_code":"CPOPCRS1XXX","bank_code":814,"bank":"COOPENAE","zip":"1010","city":"SAN JOSE","address":"CALLE 2 AVE 12 Y 14"},
+{"id":816,"swift_code":"CAOVCRS1XXX","bank_code":816,"bank":"COOPERATIVA DE AHORRO Y CREDITO DE LOS SERVIDORES PUBLICOS"}
+    ]
+}
