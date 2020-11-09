@@ -75,6 +75,7 @@
 {"id":1554,"swift_code":"FASNESM1XXX","bank_code":1554,"bank":"BANCA FARMAFACTORING SPA, SUCURSAL EN ESPAÑA","branch_code":0,"zip":"28010","city":"MADRID","address":"LUCHANA 23","phone":"0912102159","fax":"0915916521","www":"http\/\/www.bancafarmafactoring.it    http:\/\/www.cuentafacto.es","support_codes":15},
 {"id":1568,"swift_code":"ORUEES21XXX","bank_code":1568,"bank":"ORANGE BANK SA","branch_code":0,"support_codes":7},
 {"id":2080,"swift_code":"CAGLESMMXXX","bank_code":2080,"bank":"ABANCA CORPORACION BANCARIA, S.A.","branch_code":0,"zip":"15300","city":"BETANZOS","address":"CANTON CLAUDINO PITA 2","phone":"0981187000","fax":"0981223562","support_codes":15},
+{"id":2100,"swift_code":"CAIXESBBXXX","bank_code":2100,"bank":"CAIXABANK, S.A.","branch_code":0,"zip":"8028","city":"BARCELONA","address":"DIAGONAL 621","phone":"0934046000","fax":"0934046723","www":"www.caixabank.es","support_codes":15},
 {"id":3183,"swift_code":"CASDESBBXXX","bank_code":3183,"bank":"CAJA DE ARQUITECTOS S.C.C.","branch_code":0,"zip":"8002","city":"BARCELONA","address":"ARCS 1","phone":"0934826810","fax":"0934826801","www":"www.arquia.es","support_codes":15}
     ]
 }
