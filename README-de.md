@@ -6,7 +6,7 @@ Seit der Einführung der [S€PA](https://de.wikipedia.org/wiki/Europ%C3%A4ische
 
 - aber welche Bank ist es? es gibt viele Banken in Monaco.
 - mit etwas google'n erfahren wir den "bank_code":11668 und "branch_code":40001. Mehr nicht.
-- wie erfährt man aus der IBAN die BIC, die uns dann zur Bank, der Adresse oder den Kontaktdaten führen könnte?
+- wie erfährt man aus der IBAN die [BIC](https://de.wikipedia.org/wiki/ISO_9362), die uns dann zur Bank, der Adresse oder den Kontaktdaten führen könnte?
 
 Das Beispiel stammt aus [iban.com-API](https://github.com/klst-de/iban.com-API/blob/master/README.md), wo auch die Auflösung steht.
 
