@@ -13,3 +13,15 @@ Das Beispiel stammt aus [iban.com-API](https://github.com/klst-de/iban.com-API/b
 Pro IBAN-Land wird hier die Sammlung aufgebaut. Später kommen die nicht IBAN-Länder hinzu. Die Daten dazu kann man in Projekten wie [swiftcode](https://github.com/Thomanphan/swiftcode) finden. 
 
 Die [iban registry](https://www.iso13616.org/) (Release 87 – May 2020) listet 77 Länder. Etwa die Hälfte sind bereits in der Sammlung.
+
+### IBAN-BIC Anomalien
+
+Die Länderkennung gibt es nicht nur in der IBAN, sondern auch im [SWIFT-BIC](https://de.wikipedia.org/wiki/ISO_9362). Dabei kommt es zu [Anomalien](https://de.wikipedia.org/wiki/ISO_9362#Unzul%C3%A4nglichkeiten), die sich in der Sammlung wiederspiegeln.
+
+Beispiele:
+
+Laut iban registry gibt es IBANs die mit `FO` bzw. `GL` beginnen. Da sich die Clearingstelle für Grönland (GL) in Dänemark (DK) befindet, findet man die GL Banken in der Dänemark-Sammlung. Gleiches gilt für FO – Faroe Islands.
+
+![](images/FO+GL-Anomalie.PNG)
+
+ 
