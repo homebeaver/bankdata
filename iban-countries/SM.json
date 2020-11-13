@@ -1,0 +1,17 @@
+{
+    "country_code": "SM",
+    "isSEPAcountry": true,
+    "ISO_3166_1": { "name": "San Marino" , "name_fr": "Saint-Marin" , "alpha2": "SM" , "alpha3": "SMR" , "numeric": 674 },
+    "list": [
+{"id":3034,"swift_code":"BASMSMSMXXX","bank_code":3034,"bank":"BANCA AGRICOLA COMMERCIALE REPUBBLICA DI SAN MARINOSASM","branch_code":0,"branch":"FILIALE DOGANA","zip":"47031","city":"REPUBBLICA DI SAN MARINO","address":"FILIALE DI DOGANA - PIAZZA M. TINI, 26","support_codes":15},
+{"id":3145,"swift_code":"BTITSMS1XXX","bank_code":3145,"bank":"BANCA IMPRESA DI SAN MARINO S.P.A.","branch_code":0,"branch":"DIREZIONE","zip":"47891","city":"REPUBBLICA DI SAN MARINO","address":"VIA ALFONSO GIANGI, 16","support_codes":15},
+{"id":3171,"swift_code":"BASMSMSMXXX","bank_code":3171,"bank":"BANCA AGRICOLA COMMERCIALE ISTITUTO BANCARIO SAMMARINESE SPA","branch_code":0,"support_codes":15},
+{"id":3178,"swift_code":"CRRNSMSMXXX","bank_code":3178,"bank":"BANCA CIS S.P.A.","branch_code":0,"support_codes":15},
+{"id":3225,"swift_code":"ICSMSMSMXXX","bank_code":3225,"bank":"BANCA CENTRALE DELLA REPUBBLICA DI SAN MARINOSASM","branch_code":0,"branch":"TESORERIA ED ESATTORIA","zip":"47890","city":"REPUBBLICA DI SAN MARINO","address":"VIA GIOVAN BATTISTA BELLUZZI N. 3","support_codes":7},
+{"id":3262,"swift_code":"ASTTSMSMXXX","bank_code":3262,"bank":"ASSET BANCA S.P.A.SASM","branch_code":0,"branch":"FILIALE SEDE CENTRALE","zip":"47891","city":"REPUBBLICA DI SAN MARINO","address":"VIA III SETTEMBRE, 210"},
+{"id":3287,"swift_code":"BSDISMSDXXX","bank_code":3287,"bank":"BANCA SAMMARINESE DI INVESTIMEN TOSASM","branch_code":0,"branch":"DIREZIONE GENERALE","zip":"47891","city":"REPUBBLICA DI SAN MARINO","address":"VIA MONALDO DA FALCIANO, 3","support_codes":15},
+{"id":3530,"swift_code":"CRRNSMSMXXX","bank_code":3530,"bank":"CREDITO INDUSTRIALE SAMMARINESE - SERRAVALLE (RSM)SASM","branch_code":0,"branch":"SEDE","zip":"47031","city":"REPUBBLICA DI SAN MARINO","address":"PIAZZA BERTOLDI","support_codes":15},
+{"id":6067,"swift_code":"CSSMSMSMXXX","bank_code":6067,"bank":"CASSA DI RISPARMIO DELLA REPUBBLICA DI SAN MARINOSASM","branch_code":0,"branch":"SEDE CENTRALE","zip":"47890","city":"REPUBBLICA DI SAN MARINO","address":"PIAZZETTA DEL TITANO,2","support_codes":15},
+{"id":8540,"swift_code":"MAOISMSMXXX","bank_code":8540,"bank":"BANCA DI SAN MARINO S.P.A.SASM","branch_code":0,"branch":"SEDE FAETANO","zip":"47896","city":"REPUBBLICA DI SAN MARINO","address":"STRADA DELLA CROCE, 39","support_codes":15}
+    ]
+}
