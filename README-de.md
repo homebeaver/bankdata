@@ -32,7 +32,10 @@ Die Länderkennung findet sich nicht nur in der IBAN, sondern auch im [SWIFT-BIC
 
 Beispiele:
 
-Laut iban registry gibt es IBANs die mit `FO` bzw. `GL` beginnen. Da sich die Clearingstelle für Grönland (GL) in Dänemark (DK) befindet, findet man die GL Banken in der Dänemark-Sammlung. Die iban.com Datenbank liefert für jedes DK Institut gültige IBANs mit GL-Prefix, was sicher nicht korrekt ist. Gleiches gilt für FO – Faroe Islands.
+* CH/DE: im Grenzgebiet zur Schweiz bieten einige Institute ein CHF-Konto mit Schweizer IBAN. Die Sparkasse Hochrhein `SKHRDE6W` bietet ein "Giro swiss" an und ist damit in der CH-Sammlung gelistet.
+* CH/AT: auch die Kunden der deutschen FIL Fondsbank [`FFBKDEFF`](https://thebanks.eu/banks/11283) können ein Konto mit einer AT-IBAN führen. Wozu? Oder ist es umgekehrt: die Kunder der Wiener Filiale haben ein Konto mit DE-IBAN.
+
+* Laut iban registry gibt es IBANs die mit `FO` bzw. `GL` beginnen. Da sich die Clearingstelle für Grönland (GL) in Dänemark (DK) befindet, findet man die GL Banken in der Dänemark-Sammlung. Die iban.com Datenbank liefert für jedes DK Institut gültige IBANs mit GL-Prefix, was sicher nicht korrekt ist. Gleiches gilt für FO – Faroe Islands.
 
 ![](images/FO+GL-Anomalie.PNG)
 
