@@ -24,7 +24,7 @@ Die Daten werden aus iban.com gewonnen. Zur Datenqualität läßt sich also nich
 
 * BE: [bank 653 `BARCBEBB`](https://github.com/homebeaver/bankdata/commit/344d3a647fd216d6e623181677c3c95cabeecd0b#commitcomment-44195289) fehlt 
 
-* CH/LT: warum kann es CH-IBANs für das Litauische E-Geld-Institut [`VIPULT22`](https://thebanks.eu/emis/via-payments-354733) geben? Gleiches gilt für die schwedische SEB `ESSESESS`. Ebeso werden für alle DK-Banken IBANs beginnend mit `FO` bzw. `GL` als gültig angesehen (siehe Anomalien).
+* CH/LT: warum kann es CH-IBANs für das Litauische E-Geld-Institut [`VIPULT22`](https://thebanks.eu/emis/via-payments-354733) geben? Gleiches gilt für die schwedische SEB [`ESSESESS`](https://thebanks.eu/banks/17570). Ebeso werden für alle DK-Banken IBANs beginnend mit `FO` bzw. `GL` als gültig angesehen (siehe Anomalien).
 
 ### IBAN-BIC Anomalien
 
