@@ -12,7 +12,7 @@ Das Beispiel stammt aus [iban.com-API](https://github.com/klst-de/iban.com-API/b
 
 Pro IBAN-Land wird hier die Sammlung aufgebaut. Später kommen die nicht IBAN-Länder hinzu. Die Daten dazu kann man in Projekten wie [swiftcode](https://github.com/Thomanphan/swiftcode) finden. 
 
-DE Beispiel: die Bundesbank listet ca 16Tsd Einträge, 1700 davon sind "bankleitzahlführender Zahlungsdienstleister". Nur diese werden in die Liste übernommen.
+DE Beispiel: die Bundesbank listet ca 16Tsd Einträge, 3600 davon sind "bankleitzahlführender Zahlungsdienstleister". Nur diese werden in die Liste übernommen.
 
 Die [iban registry](https://www.iso13616.org/) (Release 87 – May 2020) listet 77 Länder. Etwa die Hälfte sind bereits in der Sammlung.
 
