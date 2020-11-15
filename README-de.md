@@ -16,6 +16,16 @@ DE Beispiel: die Bundesbank listet ca 16Tsd Einträge, 3500 davon sind "bankleit
 
 Die [iban registry](https://www.iso13616.org/) (Release 87 – May 2020) listet 77 Länder. Etwa die Hälfte sind bereits in der Sammlung.
 
+### Qualität der Daten
+
+Die Daten werden aus iban.com gewonnen. Zur Datenqualität läßt sich also nicht viel sagen. Stichproben lassen Zweifel aufkommen. Beispiele:
+
+* AD: "Banca Privada d'Andorra" wird mit `BSANADAD` gelistet, obwohl die gleichnamige Bank im April 2015 aufgelöst wurde, nachdem sie von der [FinCEN](https://de.wikipedia.org/wiki/FinCEN_Files) wegen Geldwäsche belangt wurde. Die [verdächtige Bank](https://thebanks.eu/banks/17738) hat allerdings eine andere BIC: `CASBADAD`
+
+* BE: [bank 653 `BARCBEBB`](https://github.com/homebeaver/bankdata/commit/344d3a647fd216d6e623181677c3c95cabeecd0b#commitcomment-44195289) fehlt 
+
+* CH/LT: warum kann es CH-IBANs für die Litauische Bank `VIPULT22` geben? Ebeso werden für alle DK-Banken IBANs beginnend mit `FO` bzw. `GL` als gültig angesehen (siehe ANomalien).
+
 ### IBAN-BIC Anomalien
 
 Die Länderkennung findet sich nicht nur in der IBAN, sondern auch im [SWIFT-BIC](https://de.wikipedia.org/wiki/ISO_9362). Dabei kommt es zu [Anomalien](https://de.wikipedia.org/wiki/ISO_9362#Unzul%C3%A4nglichkeiten), die sich in der Sammlung wiederspiegeln.
