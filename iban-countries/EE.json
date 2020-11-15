@@ -22,6 +22,5 @@
 {"id":83,"swift_code":"HANDEE22XXX","bank_code":83,"bank":"SVENSKA HANDELSBANKEN AB ESTONIAN BRANCH","zip":"10130","city":"TALLINN","address":"HARJU 6"},
 {"id":88,"swift_code":"UNCREE22XXX","bank_code":88,"bank":"AS UNICREDIT BANK EESTI FILIAAL","zip":"10118","city":"TALLINN","address":"LIIVALAIA 13\/15"},
 {"id":96,"swift_code":"RIKOEE22XXX","bank_code":96,"bank":"Luminor Bank AS (DNB) ","zip":"10145","city":"TALLINN","address":"TARTU MNT. 10","support_codes":1},
-{"id":99,"swift_code":"AKELEE21XXX","bank_code":99,"bank":"AS Pocopay","city":"TALLINN","address":"PARNU MNT 102C","support_codes":1},
-    ]
+{"id":99,"swift_code":"AKELEE21XXX","bank_code":99,"bank":"AS Pocopay","city":"TALLINN","address":"PARNU MNT 102C","support_codes":1}    ]
 }
