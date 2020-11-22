@@ -79,4 +79,5 @@
 {"id":854009812,"swift_code":"MAOISMSMXXX","bank_code":8540,"bank":"BANCA DI SAN MARINO S.P.A.","branch_code":9812,"branch":"SUCCURSALE FIORINA","zip":"47895","city":"REPUBBLICA DI SAN MARINO","address":"STRADA DI PADERNA, 2","support_codes":15},
 {"id":854009813,"swift_code":"MAOISMSMXXX","bank_code":8540,"bank":"BANCA DI SAN MARINO S.P.A.SASM","branch_code":9813,"branch":"SUCCURSALE CAILUNGO","zip":"47893","city":"REPUBBLICA DI SAN MARINO","address":"VIA VITTORIO SCIALOJA, 4","support_codes":15},
 {"id":854009822,"swift_code":"MAOISMSMXXX","bank_code":8540,"bank":"BANCA DI SAN MARINO S.P.A.SASM","branch_code":9822,"branch":"SUCCURSALE PRIVATE BANK","zip":"47891","city":"REPUBBLICA DI SAN MARINO","address":"VIA CAMPOLUNGO, 59","support_codes":15}
+    ]
 }
