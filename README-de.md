@@ -39,4 +39,12 @@ Beispiele:
 
 ![](images/FO+GL-Anomalie.PNG)
 
+### BIC - LEI
+
+Als [LEI](https://de.wikipedia.org/wiki/Legal_Entity_Identifier) wird eine 20-stellige Kennung für Rechtsträger im Finanzmarkt bezeichnet. Viele Banken haben eine LEI, einige sogar mehrere.
+
+Beispiele:
+
+* `COBADEFFXXX`: die COMMERZBANK hat die LEI [851WYGNLUQLFZBSYGB56](https://search.gleif.org/#/record/851WYGNLUQLFZBSYGB56) und eine zweite für ehemals selbständige [comdirect bank](https://search.gleif.org/#/record/529900V761CIZ36SHR16)
+* `VATIVAV1XXX`: POSTE VATICANE hat keine LEI
  
