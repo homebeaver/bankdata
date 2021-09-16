@@ -26,7 +26,7 @@ Die Daten werden aus iban.com gewonnen. Zur Datenqualität läßt sich also nich
 
 * CH/LT: warum kann es CH-IBANs für das Litauische E-Geld-Institut [`VIPULT22`](https://thebanks.eu/emis/via-payments-354733) geben? Gleiches gilt für die schwedische SEB [`ESSESESS`](https://thebanks.eu/banks/17570). Ebeso werden für alle DK-Banken IBANs beginnend mit `FO` bzw. `GL` als gültig angesehen (siehe Anomalien).
 
-### IBAN-BIC Anomalien
+### IBAN-BIC [Anomalien](Anomalien.md)
 
 Die Länderkennung findet sich nicht nur in der IBAN, sondern auch im [SWIFT-BIC](https://de.wikipedia.org/wiki/ISO_9362). Dabei kommt es zu [Anomalien](https://de.wikipedia.org/wiki/ISO_9362#Unzul%C3%A4nglichkeiten), die sich in der Sammlung wiederspiegeln.
 
