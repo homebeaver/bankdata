@@ -5,7 +5,7 @@ Die [iban registry](https://www.swift.com/resource/iban-registry-pdf) listet Lä
 Hier eine Aufzählung der Banken und Anomalien pro IBAN-Prefix:
  
 **_iban-Prefix_** | **_BIC Land_** | **_Anzahl_** | **_Bemerkung_**
---- | ------ | ------- | -------
+--- | :---:  | ---: | -------
 AT  | `AT`	 | 874 
 AT  | DE	 |   2 | FFBKDEFFAUT , TEAMDE71TAT
 BE  | `BE`	 | 845
@@ -40,4 +40,4 @@ SM  | `SM`	 | 76 | ... und es gibt 76 korrekte SM iban-Einträge
 KZ  | `KZ`  | 43 | non-SEPA Land Kazakhstan
 KZ  | RU     | 2  | 
 SK  | `SK`  | 33
-SK  | CZ`    | 3
+SK  | CZ     | 3
