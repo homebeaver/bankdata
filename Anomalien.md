@@ -3,10 +3,14 @@
 Die [iban registry](https://www.swift.com/resource/iban-registry-pdf) listet Länder/Regionen und deren IBAN-Formate.
 
 Hier eine Aufzählung der Anomalien nach IBAN-Prefix:
-
+ 
+**_icon_** | **_key_** | **_Beschreibung_**
+------- | ------- | ------- 
+nix  | `<Escape>`  | Änderung rückgängig machen
+ 
 **_iban-Prefix_** | **_BIC Land_** | **_Anzahl** | **_Bemerkung_**
---- | ------ | -------
-DK  | `DK`	 | 3883 
+--- | ------ | ------- | -------
+DK  | `DK`	 | 3883 | 
 DK  | FO	 | 4  | lt.swift hat Färöer den iban-Prefix FO, offenbar arbeiten 4 Banken mit DK-iban
 DK  | GL	 | 3  | lt.swift hat Grönland den iban-Prefix GL, offenbar arbeiten 3 Banken mit DK-iban
 IT  | `IT`  | 835
