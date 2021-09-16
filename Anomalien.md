@@ -18,8 +18,8 @@ FR  | PM	 | 2   | lt.swift keine Anomalie
 FR  | NC	 | 9   | FR Country code includes other countries/territories
 FR  | PF	 | 6   | FR Country code includes other countries/territories
 FR  | WF	 | 1   | FR Country code includes other countries/territories
-FR  | GB	 | 1   | ROYCGB22XXX
-FR  | LU	 | 1   | HAVLLULLXXX
+FR  | GB	 | 1   | [ROYCGB22XXX](https://thebanks.eu/banks/14413/bank_identifiers)
+FR  | LU	 | 1   | HAVLLULLXXX - Banque Havilland
 IT  | `IT`  | 835
 IT  | CH	 | 1  | CRESCHZHXXX - CREDIT SUISSE AG,	SEDE DI MILANO
 IT  | CZ	 | 1  | DEUTCZPXXXX - DEUTSCHE BANK AG, MILANO - warum CZ im BIC?
