@@ -11,6 +11,10 @@ AT  | DE	 |   2 | FFBKDEFFAUT , TEAMDE71TAT
 BE  | `BE`	 | 845
 BE  | FR	 |	 1 | CPBIFRPPXXX
 BE  | LU	 |	 1 | FETALULLBEL
+CH  | `CH`	 | 1587
+CH  | div    | 106 | viele auswärtige Banken, darunter 26 aus DE
+CH  | LT	 |   1 | [`VIPULT22`](https://thebanks.eu/emis/via-payments-354733)
+CH  | SE	 |   1 | [`ESSESESS`](https://thebanks.eu/banks/17570)
 DK  | `DK`	 | 3883 
 DK  | FO	 | 4   | lt.swift hat Färöer den iban-Prefix FO, offenbar arbeiten 4 Banken mit DK-iban
 DK  | GL	 | 3   | lt.swift hat Grönland den iban-Prefix GL, offenbar arbeiten 3 Banken mit DK-iban
