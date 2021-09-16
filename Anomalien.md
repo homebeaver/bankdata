@@ -16,14 +16,14 @@ CH  | div    | 106 | viele auswärtige Banken, darunter 26 aus DE
 CH  | LT	 |   1 | [`VIPULT22`](https://thebanks.eu/emis/via-payments-354733)
 CH  | SE	 |   1 | [`ESSESESS`](https://thebanks.eu/banks/17570)
 DK  | `DK`	 | 3883 
-DK  | FO	 | 4   | lt.swift hat Färöer den iban-Prefix FO, offenbar arbeiten 4 Banken mit DK-iban
-DK  | GL	 | 3   | lt.swift hat Grönland den iban-Prefix GL, offenbar arbeiten 3 Banken mit DK-iban
+DK  | FO	 | 4   | lt.iban-registry hat Färöer den iban-Prefix FO, offenbar arbeiten 4 Banken mit DK-iban
+DK  | GL	 | 3   | lt.iban-registry hat Grönland den iban-Prefix GL, offenbar arbeiten 3 Banken mit DK-iban
 FR  | `FR`  | 569 | SEPA country also includes GF, GP, MQ, YT, RE, PM, BL, MF
-FR  | GF	 | 1   | lt.swift keine Anomalie
-FR  | GP	 | 9   | lt.swift keine Anomalie
-FR  | MQ	 | 4   | lt.swift keine Anomalie
-FR  | RE	 | 7   | lt.swift keine Anomalie
-FR  | PM	 | 2   | lt.swift keine Anomalie
+FR  | GF	 | 1   | lt.iban-registry keine Anomalie
+FR  | GP	 | 9   | lt.iban-registry keine Anomalie
+FR  | MQ	 | 4   | lt.iban-registry keine Anomalie
+FR  | RE	 | 7   | lt.iban-registry keine Anomalie
+FR  | PM	 | 2   | lt.iban-registry keine Anomalie
 FR  | NC	 | 9   | FR Country code includes other countries/territories
 FR  | PF	 | 6   | FR Country code includes other countries/territories
 FR  | WF	 | 1   | FR Country code includes other countries/territories
@@ -35,9 +35,9 @@ IT  | CZ	 | 1  | DEUTCZPXXXX - DEUTSCHE BANK AG, MILANO - warum CZ im BIC?
 IT  | DE	 | 3
 IT  | FR	 | 1  | CFFRFRPPXXX - CREDIT FONCIER DE FRANCE, TRIESTE
 IT  | GB	 | 1  | BYLAGB22XXX - BAYERISCHE LANDESBANK, MILANO - warum GB im BIC?
-IT  | SM	 | 10 | lt.swift hat San Marino den iban-Prefix SM, offenbar arbeiten 10 Banken mit IT-iban
+IT  | SM	 | 10 | lt.iban-registry hat San Marino den iban-Prefix SM, offenbar arbeiten 10 Banken mit IT-iban
+SM  | `SM`	 | 76 | ... und es gibt 76 korrekte SM iban-Einträge
 KZ  | `KZ`  | 43 | non-SEPA Land Kazakhstan
 KZ  | RU     | 2  | 
-
-AT	874
-DE	2
+SK  | `SK`  | 33
+SK  | CZ`    | 3
