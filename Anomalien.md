@@ -2,10 +2,15 @@
 
 Die [iban registry](https://www.swift.com/resource/iban-registry-pdf) listet Länder/Regionen und deren IBAN-Formate.
 
-Hier eine Aufzählung der Anomalien nach IBAN-Prefix:
+Hier eine Aufzählung der Banken und Anomalien pro IBAN-Prefix:
  
 **_iban-Prefix_** | **_BIC Land_** | **_Anzahl_** | **_Bemerkung_**
 --- | ------ | ------- | -------
+AT  | `AT`	 | 874 
+AT  | DE	 |   2 | FFBKDEFFAUT , TEAMDE71TAT
+BE  | `BE`	 | 845
+BE  | FR	 |	 1 | CPBIFRPPXXX
+BE  | LU	 |	 1 | FETALULLBEL
 DK  | `DK`	 | 3883 
 DK  | FO	 | 4   | lt.swift hat Färöer den iban-Prefix FO, offenbar arbeiten 4 Banken mit DK-iban
 DK  | GL	 | 3   | lt.swift hat Grönland den iban-Prefix GL, offenbar arbeiten 3 Banken mit DK-iban
@@ -29,3 +34,6 @@ IT  | GB	 | 1  | BYLAGB22XXX - BAYERISCHE LANDESBANK, MILANO - warum GB im BIC?
 IT  | SM	 | 10 | lt.swift hat San Marino den iban-Prefix SM, offenbar arbeiten 10 Banken mit IT-iban
 KZ  | `KZ`  | 43 | non-SEPA Land Kazakhstan
 KZ  | RU     | 2  | 
+
+AT	874
+DE	2
