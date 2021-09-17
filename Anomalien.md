@@ -29,6 +29,8 @@ FR  | PF	 | 6   | FR Country code includes other countries/territories
 FR  | WF	 | 1   | FR Country code includes other countries/territories
 FR  | GB	 | 1   | [ROYCGB22XXX](https://thebanks.eu/banks/14413/bank_identifiers)
 FR  | LU	 | 1   | HAVLLULLXXX - Banque Havilland
+IE  | `IE`  | 1505
+IE  | GB     | 613
 IT  | `IT`  | 835
 IT  | CH	 | 1  | CRESCHZHXXX - CREDIT SUISSE AG,	SEDE DI MILANO
 IT  | CZ	 | 1  | DEUTCZPXXXX - DEUTSCHE BANK AG, MILANO - warum CZ im BIC?
@@ -39,5 +41,7 @@ IT  | SM	 | 10 | lt.iban-registry hat San Marino den iban-Prefix SM, offenbar ar
 SM  | `SM`	 | 76 | ... und es gibt 76 korrekte SM iban-Einträge
 KZ  | `KZ`  | 43 | non-SEPA Land Kazakhstan
 KZ  | RU     | 2  | 
+PL  | `PL`  | 3109
+PL  | null   | 25 | einige Institute haben keine BIC
 SK  | `SK`  | 33
 SK  | CZ     | 3
